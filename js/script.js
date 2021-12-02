@@ -18,6 +18,7 @@ for ( i = 0; i < 5; i ++ ) {
     numbersArray.push(casualNumber);
 
 }
+
 console.log(numbersArray);
 
 //indico all'utente il tempo che dovrà aspettare prima di poter inserire i numeri
